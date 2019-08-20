@@ -1,0 +1,65 @@
+,,instancia de,espécie a que pertence,hospedeiro,substitui **,é substituido por ***,,quickstatement command
+,,tipo celular,plasmodium falciparum,,,,,
+Len,Lpt,P31,P703,P2975,P1365,P1366,Q,
+,Oocineto de Plasmodium ,,,,,,,
+,Ovócito de Plasmodium ,,,,,,,
+,Esporozoíto de Plasmodium  ,,,,,,,
+,Esquizonte hepático de Plasmodium ,,,,,,,
+,Merozoíto de Plasmodium  ,,,,,,,
+,Gametócito masculino de Plasmodium ,,,,,,,
+,Gametócito feminino de Plasmodium  ,,,,,,,
+,Gameta masculino de Plasmodium ,,,,,,,
+,Gameta Feminino de Plasmodium  ,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Plasmodium falciparum ookinete,Oocineto de Plasmodium falciparum,Q189118,Q311383,Q158597,,Q66254094,Q66253483,
+Plasmodium falciparum oocyst,Oocisto de Plasmodium falciparum,Q189118,Q311383,Q158597,Q66253483,,Q66254094,"CREATE
+LAST|Len|""Plasmodium falciparum oocyst""
+LAST|Lpt|""Oocisto de Plasmodium falciparum""
+LAST|P31|Q189118
+LAST|P703|Q311383
+LAST|P2975|Q158597
+LAST|P1365|Q66253483"
+Plasmodium falciparum sporozoite,Esporozoíto de Plasmodium falciparum,Q189118,Q311383,Q158597,Q66254094,Q66429531,Q66429534,"
+CREATE
+LAST|Len|""Plasmodium falciparum sporozoite""
+LAST|Lpt|""Esporozoíto de Plasmodium falciparum""
+LAST|P31|Q189118
+LAST|P703|Q311383
+LAST|P2975|Q158597
+LAST|P1365|Q66254094
+Q66254094|P1366|LAST
+"
+liver schizont of Plasmodium falciparum,Esquizonte hepático de Plasmodium falciparum,Q189118,Q311383,Q5,Q66429534,Q66429544,Q66429531,"
+CREATE
+LAST|Len|""liver schizont of Plasmodium falciparum""
+LAST|Lpt|""Esquizonte hepático de Plasmodium falciparum""
+LAST|P31|Q189118
+LAST|P703|Q311383
+LAST|P2975|Q5
+LAST|P1365|Q66429534
+Q66429534|P1366|LAST
+"
+Plasmodium falciparum merozoite,Merozoíto de Plasmodium falciparum,Q189118,Q311383,Q5,Q66429531,Q66481302,Q66429544,"CREATE
+LAST|Len|""Plasmodium falciparum merozoite""        
+LAST|Lpt|""Merozoíto de Plasmodium falciparum""
+LAST|P31|Q189118
+LAST|P703|Q311383
+LAST|P2975|Q5
+LAST|P1365|Q66429531
+Q66429531|P1366|LAST
+"
+Male gametocyte of Plasmodium falciparum,Gametócito masculino de Plasmodium falciparum,Q189118,Q311383,Q5,Q66429544,,Q66481302,"CREATE
+LAST|Len|""Male gametocyte of Plasmodium falciparum""        
+LAST|Lpt|""Gametócito masculino de Plasmodium falciparum""
+LAST|P31|Q189118
+LAST|P703|Q311383
+LAST|P2975|Q5
+LAST|P1365|Q66429544
+Q66429544|P1366|LAST
+"
+female gametocyte of Plasmodium falciparum,Gametócito feminino de Plasmodium falciparum,Q189118,Q311383,Q5,,,,
+Male gamete of Plasmodium falciparum,Gameta masculino de Plasmodium falciparum,Q189119,Q311384,Q158597,,,,
+Female gamete of Plasmodium falciparum,Gameta Feminino de Plasmodium falciparum,Q189120,Q311385,Q158597,,,,
